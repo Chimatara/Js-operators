@@ -78,4 +78,4 @@ x += 5;    // Add and assign operator, equivalent to x = x + 5
 x -= 5;    // Subtract and assign operator, equivalent to x = x - 5
 
 <!-- QUESTION 4 -->
-Uncaught ReferenceError: i is not defined
+1, 8 and 15

@@ -1,3 +1,25 @@
+//QUESTION 3
+
+let scienceSubjects = 'Physics, Chemistry, Biology, Technical Drawing' ;
+let socialScienceSubjects = 'Accounting, Commerce, Marketing, Geography';
+let artSubjects = 'Government, Economics, Literature, History';
+let generalSubjects = 'English, Mathematics';
+let otherGroup = generalSubjects
+
+let myDept = 'Arts Department';
+
+if (myDept = 'Arts Department' ) {
+     console.log("Below are the list of Art Subjects " + artSubjects + "" + generalSubjects)
+}
+else if (otherGroup >= noGroup)
+  console.log(generalSubjects)
+else {
+ console.log (generalSubjects)
+}
+console.log(myDept);
+console.log(artSubjects);
+
+
 // QUESTION 5
 
 function nearestPowerOf2(num) {
@@ -21,3 +43,7 @@ function nearestPowerOf2(num) {
     }
   }
   
+
+  for (let i = 1; i < 20; i += 7 ) {
+    console.log(i);
+  }
